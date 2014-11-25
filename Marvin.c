@@ -89,8 +89,6 @@ void goMarvinGo(void){
 		//clap();
 		lineHandle();
 		walls();
-		//holdTheLine();
-		//followThatLine();
 		
 	}
 }
